@@ -1,0 +1,14 @@
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\bin\Debug\net7.0\Task1.exe
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\bin\Debug\net7.0\Task1.deps.json
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\bin\Debug\net7.0\Task1.dll
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\bin\Debug\net7.0\Task1.pdb
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.dll
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\refint\Task1.dll
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.pdb
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\EraaSoftBack\Session4\Task\Task1.1\Task1.1\obj\Debug\net7.0\ref\Task1.dll
